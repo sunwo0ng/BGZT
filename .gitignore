@@ -1,0 +1,38 @@
+# Ignore all jpg files
+*.jpg
+
+# Ignore all png files
+*.png
+
+# Ignore all csv files
+*.csv
+
+# Ignore all zip files
+*.zip
+
+# Ignore all xml files
+*.xml
+*.jpg
+*.png
+*.csv
+*.zip
+*.xml
+
+# YAML configuration files
+*.yaml
+
+# Model files and weights
+models/
+*.h5
+*.pth
+
+# YOLO folders
+yolov5/
+YOLO/
+
+# 기타 제외할 폴더
+MANIQA/
+airforce_tot_classification/
+
+# 기타 제외할 파일
+mobilenet_weights.h5
